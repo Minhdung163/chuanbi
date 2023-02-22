@@ -1,0 +1,12 @@
+Brno
+Berlin
+554.0
+Skoda
+Octavia
+5.0588235294117645
+Ford
+Focus
+5.8
+BMW
+M3
+7.5
